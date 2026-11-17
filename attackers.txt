@@ -1,0 +1,2 @@
+      1 COMMAND=/usr/bin/grep
+      1 -c
